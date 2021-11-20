@@ -9,4 +9,9 @@ ul, ol {
 a {
   text-decoration: none; }
 
+main {
+  width: 100%;
+  height: 100vh;
+  background: lightgreen; }
+
 /*# sourceMappingURL=style.css.map */
